@@ -20,4 +20,4 @@
 
 ### Demo links
 
-- [Demo](https://AndriiZakharenko.github.io/fix_form/)
+- [Demo](https://AndriiZakharenko.github.io/fix-form/)
