@@ -16,7 +16,7 @@
 - Prettier
 - Cypress
 - Mochawesome
-- Parcek
+- Parcel
 
 ### Demo links
 
